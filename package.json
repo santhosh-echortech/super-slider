@@ -1,10 +1,10 @@
 {
   "name": "@santhoshkumar13/react-native-super-slider",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Slider",
-  "main": "index.js",
+  "main": "index.tsx",
   "scripts": {
-    "test": "npm run test"
+    "test": ""
   },
   "repository": {
     "type": "git",
