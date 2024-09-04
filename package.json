@@ -1,0 +1,22 @@
+{
+  "name": "react-native-super-slider",
+  "version": "1.0.0",
+  "description": "Slider",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santhosh-echortech/super-slider.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Santhosh Kumar A",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/santhosh-echortech/super-slider/issues"
+  },
+  "homepage": "https://github.com/santhosh-echortech/super-slider#readme"
+}
