@@ -14,15 +14,15 @@ The version 1 was using native Android and iOS views.<br/>
 
 ## Installation
 
-- npm: `npm install --save react-native-super-slider`
-- yarn: `yarn add react-native-super-slider`
+- npm: `npm install --save @santhoshkumar13/react-native-super-slider`
+- yarn: `yarn add @santhoshkumar13/react-native-super-slider`
 
 ## Usage
 
 ```
 ...
 
-import RangeSlider from 'react-native-super-slider';
+import RangeSlider from '@santhoshkumar13/react-native-super-slider';
 
 ...
 
